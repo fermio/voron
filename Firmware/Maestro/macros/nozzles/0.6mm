@@ -1,0 +1,4 @@
+
+M404 N1.75 D0.6
+ ; N1.75	1.75mm			Filament width (in mm)
+ ; D0.6		0.6mm			Nozzle diameter (in mm)

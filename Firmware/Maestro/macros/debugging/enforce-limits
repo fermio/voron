@@ -1,0 +1,2 @@
+; movement forbidden without homing, within boundaries
+M564 S1 H1

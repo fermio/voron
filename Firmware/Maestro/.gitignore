@@ -1,0 +1,9 @@
+/gcodes/
+/menu/
+/sys/*.bin
+/sys/config.g.bak
+/sys/dwc2settings.json
+/sys/filaments.csv
+/sys/resume.g
+/sys/resurrect.g
+/www/
