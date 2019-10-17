@@ -5,6 +5,8 @@ G28
 
 M98 P"0:/macros/probing/omron"
 M98 P"0:/macros/probing/bed"
+M98 P"0:/macros/probing/bed"
+M98 P"0:/macros/probing/bed"
 
 M98 P"0:/macros/probing/switch"
 M98 P"0:/macros/probing/goto/switch"
