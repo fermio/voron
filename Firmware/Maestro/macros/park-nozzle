@@ -1,2 +1,0 @@
-G90			; absolute positioning
-G1 X75 Y5 Z50 F6000	; park in front of bed

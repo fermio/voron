@@ -1,9 +1,0 @@
-M400
-
-M558 P4 C2 I0 F150 H5 T99999 A5 B0 R0.02 S0.005
-G31 T4 P500 X0 Y0 Z-0.855
-
-; if positive, greater value = lower nozzle
-; if negative, more negative = higher nozzle
-
-G4 P200
